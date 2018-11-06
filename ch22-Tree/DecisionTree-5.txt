@@ -1,0 +1,48 @@
+
+banknote authentication Data Set 紙幣認證數據集
+Download: Data Folder, Data Set Description 下載：數據文件夾，數據集說明
+
+Abstract: Data were extracted from images that were taken for the evaluation of an authentication procedure for banknotes.
+摘要：從用於評估紙幣認證程序的圖像中提取數據。
+
+
+
+Data Set Characteristics:  　　　　Multivariate　　　Number of Instances:　1372　　　Area:　　Computer
+
+Attribute Characteristics:　　　　　Real　　　　　　　Number of Attributes:　5　　　　Date Donated:　2013-04-16
+
+Associated Tasks:                Classification    Missing Values?       N/A     Number of Web Hits:  74182
+
+
+Source:
+
+Owner of database: Volker Lohweg (University of Applied Sciences, Ostwestfalen-Lippe, volker.lohweg '@' hs-owl.de) 
+Donor of database: Helene DÃ¶rksen (University of Applied Sciences, Ostwestfalen-Lippe, helene.doerksen '@' hs-owl.de) 
+Date received: August, 2012 
+
+
+Data Set Information:
+
+Data were extracted from images that were taken from genuine and forged banknote-like specimens. For digitization, an industrial camera usually used for print inspection was used. The final images have 400x 400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. Wavelet Transform tool were used to extract features from images.
+從從真偽和偽造的鈔票樣本取出的圖像中提取數據。 為了數字化，使用通常用於打印檢查的工業相機。 最終的圖像具有400x400像素。 由於物鏡和被調查對象的距離，獲得了大約660 dpi的分辨率的灰度圖像。 小波變換工具用於從圖像中提取特徵。
+
+
+
+Attribute Information: 屬性信息：
+
+1. variance of Wavelet Transformed image (continuous) 
+2. skewness of Wavelet Transformed image (continuous) 
+3. curtosis of Wavelet Transformed image (continuous) 
+4. entropy of image (continuous) 
+5. class (integer) 
+
+
+1.小波變換圖像（連續）
+2.小波變換圖像的偏度（連續）
+3.小波變換圖像（連續）
+4. 圖像熵（連續）
+5. 類（整數）
+
+
+
+
